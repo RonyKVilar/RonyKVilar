@@ -2,9 +2,6 @@
 
 My name is Rony.
 
-**RonyKVilar/RonyKVilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I'm currently working on my knowledge, trying to learn more about the IT area;
 - 🌱 I'm currently learning a programming language.
 - 👯 I'm looking to expand my knowledge, and with that I can contribute to this world of technology!

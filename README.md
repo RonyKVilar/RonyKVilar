@@ -1,9 +1,9 @@
 ## Hello, developers 👋
 
 My name is Rony.
+
 **RonyKVilar/RonyKVilar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I'm currently working on my knowledge, trying to learn more about the IT area;
 - 🌱 I'm currently learning a programming language.
